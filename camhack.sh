@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamHack v3.2
 # CODED by: https://github.com/PG-12/PG-CAMHACK
-# IF YOU WANT THIS CODE PLEASE GIVE ME CREDIT👇👇👇👇👇👇
+# PLEASE SUPPORT MY PROJECT IN https://github.com/PG-12 MY LANGUAGE IS SHELL&PHP
 trap 'printf "\n";stop' 2
 
 banner() {
