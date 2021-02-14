@@ -1,7 +1,7 @@
 #!/bin/bash
 # CamHack v3.2
 # CODED by: https://github.com/PG-12/PG-CAMHACK
-# IF WANT THIS CODE I RECOMMEND TO USE TERMUX APK
+# IF YOU WANT THIS CODE PLEASE GIVE ME CREDIT👇👇👇👇👇👇
 trap 'printf "\n";stop' 2
 
 banner() {
