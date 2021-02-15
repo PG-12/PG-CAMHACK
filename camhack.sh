@@ -23,7 +23,7 @@ printf "\e[1;31m #     # \e[0m\e[1;32m #       \e[0m\e[1;33m   ## \e[0m\e[1;34m 
 printf "\e[1;31m ####### \e[0m\e[1;32m ####### \e[0m\e[1;33m   ## \e[0m\e[1;34m ####### \e[0m\n"
 printf "\e[1;31m #       \e[0m\e[1;32m #     # \e[0m\e[1;33m   ## \e[0m\e[1;34m #       \e[0m\n"
 printf "\e[1;31m #       \e[0m\e[1;32m #     # \e[0m\e[1;33m   ## \e[0m\e[1;34m #       \e[0m\n"
-printf "\e[1;31m #       \e[0m\e[1;32m ####### \e[0m\e[1;33    ## \e[0m\e[1;34m ####### \e[0m\n"
+printf "\e[1;31m #       \e[0m\e[1;32m ####### \e[0m\e[1;33m   ## \e[0m\e[1;34m ####### \e[0m\n"
 
 
 printf " \e[1;77m v3.2 Coded By https://github.com/PG-12/PG-CAMHACK\e[0m \n"
